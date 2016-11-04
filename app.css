@@ -82,3 +82,7 @@ body {
   padding: 0;
   margin-bottom: 15px;
 }
+
+.crumb-query::before {
+  content: '?' !important;
+}
