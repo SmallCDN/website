@@ -24,6 +24,7 @@ header {
 
 footer {
   padding-top: 0px !important;
+  background-color: #26a69a !important;
 }
 
 .footer-copyright a:not(:first-child) {
