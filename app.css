@@ -30,3 +30,27 @@ footer {
 .footer-copyright a:not(:first-child) {
   padding-right: 1em;
 }
+
+.brand-logo {
+  margin-left: 5px;
+}
+
+.info {
+  margin-left: 15px;
+}
+
+.libraries-header-text {
+  margin-top: 15px;
+}
+
+.libraries-header {
+  margin-bottom: 0;
+}
+
+#search {
+  margin-bottom: 15px;
+}
+
+nav {
+  background-color: #26a69a !important;
+}
